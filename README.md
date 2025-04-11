@@ -30,6 +30,6 @@ Celem projektu jest zagłębienie się w jeden z najbardziej kluczowych tematów
 
 **Mateusz Rzeźnikiewicz** oraz **Patryk Ryba**    
 Politechnika Rzeszowska, 2024  
-Opiekun: dr Krzysztof Pupka
+Opiekun: dr Paweł Bednarz
 
 ---
